@@ -1,7 +1,9 @@
 <table width="100%" border="0">
   <tr>
     <td align="center" valign="middle" width="50%">
-      <h3><code><b>this is my lab , I cook here .</b></code></h3>
+      <span style="font-family: 'Courier New', Courier, monospace; font-weight: 900; font-size: 1.2em; letter-spacing: 1px;">
+        this is my lab , I cook here .
+      </span>
     </td>
     <td align="right" valign="middle" width="50%">
       <a href="https://github.com/A-Chronicle">
