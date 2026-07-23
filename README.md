@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Typing Animation -->
   <a href="https://github.com/A-Chronicle">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=this+is+my+lab+;+I+cook+here+." alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=this+is+my+lab+;+I+cook+here+often+." alt="Typing Effect" />
   </a>
 
   <br><br>
